@@ -1,0 +1,29 @@
+.heading{
+    background: transparent;
+    border: transparent;
+    font-size: 30px;
+    color: turquoise;
+}
+body{
+    background-image:linear-gradient(tomato,turquoise, lawngreen);
+}
+#status1{
+   width: 40%;
+   border-radius: 100px;
+}
+#status2{
+    width: 40%;
+    border-radius: 100px;
+ }
+ #status3{
+    width: 40%;
+    border-radius: 100px;
+ }
+ #status4{
+    width: 40%;
+    border-radius: 100px;
+ }
+ #status5{
+    width: 40%;
+    border-radius: 100px;
+ }
